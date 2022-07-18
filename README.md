@@ -6,14 +6,15 @@
 ## 👋 &nbsp;Hey there! I'm Michael aka Lucid.H3X 
 
 ### 👨🏻‍💻 &nbsp;About Me
+<img alt="Night Coding" src="https://mrwgifs.com/wp-content/uploads/2014/06/Cute-Cat-Hacking-Into-Top-Secret-Files-On-Chis-Sweet-Home-Anime.gif" align="right"/>
+💡 &nbsp;I like to study about new security vulnerabilities and methods to speed up and improve my work flown.
 
-💡 &nbsp;I like to study about new security vulnerabilities and methods to speed up and improve my work flow .\
 🎓 &nbsp;I'm currently studying for my Network + certification  .\
 🌱 &nbsp;I'm on track for learning more about networking and pentesting .\
 ✍️ &nbsp;In my free time, I love to hang out with my wife and dog .\
 🤔 I’m looking for help with Finding optimal paths to get into Cyber Sec.\
-🥅 2022 Goals: To get my Network + | Security + 
-⚡ Fun fact: I love Pokemon, 8 Bit games, Reading and the forest
+🥅 2022 Goals: To get my Network + | Security + .\
+⚡ Fun fact: I love Pokemon, 8 Bit games, Reading and the forest .
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
