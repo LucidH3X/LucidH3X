@@ -9,11 +9,11 @@
 <img alt="Night Coding" src="https://mrwgifs.com/wp-content/uploads/2014/06/Cute-Cat-Hacking-Into-Top-Secret-Files-On-Chis-Sweet-Home-Anime.gif" align="right"/>
 💡 &nbsp;I like to study about new security vulnerabilities and methods to speed up and improve my work flown.
 
-🎓 &nbsp;I'm currently studying for my Network + certification  .\
+🎓 &nbsp;I'm currently studying for my Security + certification  .\
 🌱 &nbsp;I'm on track for learning more about networking and pentesting .\
 ✍️ &nbsp;In my free time, I love to hang out with my wife and dog .\
 🤔 I’m looking for help with Finding optimal paths to get into Cyber Sec.\
-🥅 2022 Goals: To get my Network + | Security + .\
+🥅 2022 Goals: To get my  Security + .\
 ⚡ Fun fact: I love Pokemon, 8 Bit games, Reading and the forest .
 
 
