@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I love to hang out with my wife and dog .\
 🤔 I’m looking for help with Finding optimal paths to get into Cyber Sec.\
 🥅 2022 Goals: To get my  Security + .\
-⚡ Fun fact: I love Pokemon, 8 Bit games, Reading and the forest .
+⚡ Fun fact: I love Pokemon, 8 Bit games, Reading and Horror movies .
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
