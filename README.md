@@ -13,7 +13,7 @@
 🌱 &nbsp;I'm on track for learning more about networking and pentesting .\
 ✍️ &nbsp;In my free time, I love to hang out with my wife and dog .\
 🤔 I’m looking for help with Finding optimal paths to get into Cyber Sec.\
-🥅 2022 Goals: To get my  Security + .\
+🥅 2023 Goals: To get my  Security + .\
 ⚡ Fun fact: I love Pokemon, 8 Bit games, Reading and Horror movies .
 
 
