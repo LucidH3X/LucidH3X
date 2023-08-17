@@ -7,11 +7,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <img alt="Night Coding" src="https://mrwgifs.com/wp-content/uploads/2014/06/Cute-Cat-Hacking-Into-Top-Secret-Files-On-Chis-Sweet-Home-Anime.gif" align="right"/>
-💡 &nbsp;I like to study about new security vulnerabilities and methods to speed up and improve my work flown.
+💡 &nbsp;I enjoy exploring emerging security vulnerabilities and techniques to enhance the efficiency and effectiveness of my workflow.
 
-🎓 &nbsp;I'm currently studying for my Security + certification  .\
-🌱 &nbsp;I'm on track for learning more about networking and pentesting .\
-✍️ &nbsp;In my free time, I love to hang out with my wife and dog .\
+🎓 &nbsp;I am currently preparing for my Security+ certification.  .\
+🌱 &nbsp;I'm focused on furthering my knowledge in networking and penetration testing. .\
+✍️ &nbsp;During my leisure time, I enjoy spending quality moments with my wife and dog, as well as delving deeper into the realm of information security. .\
 🤔 I’m looking for help with Finding optimal paths to get into Cyber Sec.\
 🥅 2024 Goals: To get my  Security + .\
 ⚡ Fun fact: I love Puzzles, 8 Bit games, Reading and Horror movies .
