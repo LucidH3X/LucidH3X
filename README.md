@@ -37,7 +37,6 @@ More details to come! 🧟‍♂️
 <a href="https://www.threads.net/@lucid.h3x" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Threads_%28app%29.png/600px-Threads_%28app%29.png" alt="lucid.h3x" height="30" width="40" /></a>
 <a href="https://twitter.com/LucidH3X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucid.h3x" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/LucidH3X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="lucid.h3x" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@lucidh3x" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/michael-borge-7636b5132/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lucid.h3x" height="30" width="40" /></a>
 <a href="https://infosec.exchange/@lucidh3x" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/mastodon-icon-2048x2048-4vfeoo1f.png" alt="lucid.h3x" height="30" width="40" /></a>
 
