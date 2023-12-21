@@ -10,9 +10,8 @@
 💡 &nbsp;I enjoy exploring emerging security vulnerabilities and techniques to enhance the efficiency and effectiveness of my workflow.
 
 🎓 &nbsp;I am currently preparing for my Security+ certification.  .\
-🌱 &nbsp;I'm focused on furthering my knowledge in networking and penetration testing. .\
+🌱 &nbsp;I'm focused on furthering my knowledge in networking and penetration testing. With a strog focus on Wifi and Bluetooth exploits .\
 ✍️ &nbsp;During my leisure time, I enjoy spending quality moments with my wife and dog, as well as delving deeper into the realm of information security. .\
-🤔 I’m looking for help with Finding optimal paths to get into Cyber Sec.\
 🥅 2024 Goals: To get my  Security + .\
 ⚡ Fun fact: I love Puzzles, 8 Bit games, Reading and Horror movies .
 
