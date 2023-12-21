@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.imgur.com/brbozDa.png" border="0">
+<img src="https://drive.google.com/file/d/12hXFZlu619LG5mCO__Du6mqHfAjysFPD/view?usp=sharing" border="0">
 </p>
 
 ## 👋 &nbsp;Hey there! I'm Michael aka Lucid.H3X 
