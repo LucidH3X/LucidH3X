@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/LucidH3X/LucidH3X/assets/89421832/650a483a-3669-4c55-8d4d-af69fc6cf4be" width="600" height="200"/>
+<img src="https://github.com/LucidH3X/LucidH3X/assets/89421832/6add9157-fa1e-455e-8bf2-5e035062321d" width="600" height="200"/>
 </p>
 
 ## 👋 &nbsp;Hey there! I'm Michael aka Lucid.H3X 
