@@ -1,6 +1,6 @@
 
 <p align="center">
-![Screenshot_2023-12-20_20-24-42](https://github.com/LucidH3X/LucidH3X/assets/89421832/ee7fb008-945b-4ca2-b9c5-d18488522dc5)
+<img src="https://github.com/LucidH3X/LucidH3X/assets/89421832/ee7fb008-945b-4ca2-b9c5-d18488522dc5"/>
 </p>
 
 ## 👋 &nbsp;Hey there! I'm Michael aka Lucid.H3X 
