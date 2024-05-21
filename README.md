@@ -12,7 +12,6 @@
 🎓 &nbsp;I am currently preparing for my Security+ certification.  .\
 🌱 &nbsp;I'm focused on furthering my knowledge in networking and penetration testing. With a strog focus on Wifi and Bluetooth exploits .\
 ✍️ &nbsp;During my leisure time, I enjoy spending quality moments with my wife and dog, as well as delving deeper into the realm of information security. .\
-🥅 2024 Goals: To get my  Security + .\
 ⚡ Fun fact: I love Puzzles, 8 Bit games, Reading and Horror movies .
 
 
@@ -32,8 +31,6 @@ More details to come! 🧟‍♂️
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<a href="https://www.linkedin.com/in/michael-borge-7636b5132/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lucid.h3x" height="30" width="40" /></a>
 
 <p align="center">
   <img height="180em" src="https://media0.giphy.com/media/UcxGOKqvVu4ns8tUs5/giphy.gif?cid=790b7611700b6ee79fcafc3c7334143378d187fc556cebc9&rid=giphy.gif&ct=s">
