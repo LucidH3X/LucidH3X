@@ -6,14 +6,15 @@
 ## 👋 &nbsp;Hey there! I'm Michael aka Lucid.H3X 
 
 ### 👨🏻‍💻 &nbsp;About Me
-<img alt="Night Coding" src="https://mrwgifs.com/wp-content/uploads/2014/06/Cute-Cat-Hacking-Into-Top-Secret-Files-On-Chis-Sweet-Home-Anime.gif" align="right"/>
-💡 &nbsp;I enjoy exploring emerging security vulnerabilities and techniques to enhance the efficiency and effectiveness of my workflow.
+Hi My name is Lucid.H3X im a Infosec nut! I love all things security and tech. My main intrests are in WIFI and Cloud based Secuirty as well AI since its the New cutting edge of the cyberworld not to mention I have a huge facination for malware and how its made and works as well. I also enjoy playing old retro 8bit games Its kinda a problem. When im not studying for a cert or in some rabbit hole hacking and tinkering. You can find me most likely out and about at local furry meets or hanging out my family. Other side hobby would have to be crypto but thats a small hobby.
 
-🎓 &nbsp;I am currently preparing for my Security+ certification.  .\
-🌱 &nbsp;I'm focused on furthering my knowledge in networking and penetration testing. With a strog focus on Wifi and Bluetooth exploits .\
-✍️ &nbsp;During my leisure time, I enjoy spending quality moments with my wife and dog, as well as delving deeper into the realm of information security. .\
-⚡ Fun fact: I love Puzzles, 8 Bit games, Reading and Horror movies .
+If you love Wardriving, Cybersecurity, Infosec, Furry, Retro games and all things tech and privacy related then add me!
 
+PS im a pretty big dork and tend to go on huge rants so be warned ahead of time nerds!
+
+Stay Fluffy and Nerdy,
+
+Lucid.H3X
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
