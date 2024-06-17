@@ -3,15 +3,11 @@
 <img src="https://github.com/LucidH3X/LucidH3X/assets/89421832/6add9157-fa1e-455e-8bf2-5e035062321d" width="600" height="200"/>
 </p>
 
-## 👋 &nbsp;Hey there! I'm Michael aka Lucid.H3X 
-
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi My name is Lucid.H3X im a Infosec nut! I love all things security and tech. My main interests are in WIFI and Cloud based Security as well as AI since it's the New cutting edge of the cyberworld not to mention I have a huge fascination for malware and how it's made and works as well. I also enjoy playing old retro 8-bit games It's kinda a problem. When I'm not studying for a cert or in some rabbit hole hacking and tinkering. You can find me most likely out and about at local furry meets or hanging out with my family. The other side hobby would have to be crypto but That's a small hobby.
+Hi My name is Lucid.H3X im a Infosec nut! I love all things security and tech. My main interests are in WIFI and Cloud based Security as well as AI since it's the New cutting edge of the cyberworld not to mention I have a huge fascination for malware and how it's made and works as well. I also enjoy playing old retro 8-bit games It's kinda a problem. When I'm not studying for a cert or in some rabbit hole hacking and tinkering. You can find me most likely out and about at local furry meets or hanging out with my family - FOSS and crypto supporter
 
 If you love Wardriving, Cybersecurity, Infosec, Furry, Retro games and all things tech and privacy related then add me!
-
-PS I'm a pretty big dork and tend to go on huge rants so be warned ahead of time nerds!
 
 Stay Fluffy and Nerdy,
 
