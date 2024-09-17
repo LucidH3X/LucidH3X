@@ -1,17 +1,16 @@
 
-<p align="center">
-<img src="https://github.com/LucidH3X/LucidH3X/assets/89421832/6add9157-fa1e-455e-8bf2-5e035062321d" width="600" height="200"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LucidH3X&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucidH3X&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi My name is Lucid.H3X im a Infosec nut! I love all things security and tech. My main interests are in WIFI and Cloud based Security as well as AI since it's the New cutting edge of the cyberworld not to mention I have a huge fascination for malware and how it's made and works as well. I also enjoy playing old retro 8-bit games It's kinda a problem. When I'm not studying for a cert or in some rabbit hole hacking and tinkering. You can find me most likely out and about at local furry meets or hanging out with my family - FOSS and crypto supporter
+Hi I am Lucid.H3X a 37 year old Security Analyst | Threat Hunter | Malware Researcher | Cloud Security | Passion for research and learning.
 
-If you love Wardriving, Cybersecurity, Infosec, Furry, Retro games and all things tech and privacy related then add me!
-
-Stay Fluffy and Nerdy,
-
-Lucid.H3X
+Since I was a child I was always fascinated by cybersecurity and data. I was in love with the idea of a constant stream of threats and the ability to identify, combat, and mitigate them. The dream of having the chance to protect and secure digital assets is what guides me in my passion for this field. The opportunity to gain insight into the wide realm of infosec keeps my child-like passion glowing. My main interests are in Threat intelligence and Cloud-based Security, I also have a huge fascination for malware and how it's made and works. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -32,3 +31,6 @@ More details to come! 🧟‍♂️
 <p align="center">
   <img height="180em" src="https://media0.giphy.com/media/UcxGOKqvVu4ns8tUs5/giphy.gif?cid=790b7611700b6ee79fcafc3c7334143378d187fc556cebc9&rid=giphy.gif&ct=s">
 </p>
+
+
+    
