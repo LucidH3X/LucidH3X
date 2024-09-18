@@ -15,6 +15,8 @@ I challenge myself to stay a step ahead of threat actors while being an active c
 ## Certifications earned <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 ![Google Cybersecurity Certification](https://img.shields.io/badge/Google%20Cybersecurity%20Certification-September%202024-purple?style=flat-square&logo=google&logoColor=white)
 
+## Languages I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+  <img src="https://img.shields.io/badge/Python-25%25-yellowgreen" alt="Python" /> <img src="https://img.shields.io/badge/HTML-35%25-brightgreen" alt="HTML" />
 ## CTF Completion <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 ![PicoCTF Progress](https://img.shields.io/badge/PicoCTF-0%25%20Complete-white) ![HackThisSite Progress](https://img.shields.io/badge/HackThisSite-0%25%20Complete-white) ![HackTheBox Progress](https://img.shields.io/badge/HackTheBox-0%25%20Complete-white)
 
@@ -26,15 +28,9 @@ I challenge myself to stay a step ahead of threat actors while being an active c
 * Social Links https://lucidh3x.uwu.ai/ Follow me!
 
 <p align="center">
-  <img height="180em" src="https://media0.giphy.com/media/UcxGOKqvVu4ns8tUs5/giphy.gif?cid=790b7611700b6ee79fcafc3c7334143378d187fc556cebc9&rid=giphy.gif&ct=s">
+  <img height="180em" src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif">
 </p>
 
-<h3 align="center">Languages I Know</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-25%25-yellowgreen" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-35%25-brightgreen" alt="HTML" />
-</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/LucidH3X/count.svg" alt="Visitor Count">
