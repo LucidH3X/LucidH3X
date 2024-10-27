@@ -1,7 +1,6 @@
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LucidH3X&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucidH3X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucidH3X&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucidH3X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -25,15 +24,12 @@ I challenge myself to stay a step ahead of threat actors while being an active c
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-* Social Links https://lucidh3x.uwu.ai/ Follow me!
+* My Blog https://lucidh3x.github.io/ Follow me!
 
 <p align="center">
   <img height="180em" src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif">
 </p>
 
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/LucidH3X/count.svg" alt="Visitor Count">
 </div>
-
-
