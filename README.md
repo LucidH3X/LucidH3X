@@ -16,7 +16,7 @@ I challenge myself to stay a step ahead of threat actors while being an active c
 ![PicoCTF Progress](https://img.shields.io/badge/PicoCTF-0%25%20Complete-white) ![HackThisSite Progress](https://img.shields.io/badge/HackThisSite-0%25%20Complete-white) ![HackTheBox Progress](https://img.shields.io/badge/HackTheBox-0%25%20Complete-white)
 
 ## Side Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-- Currently, I am working on coding and assembling a hexapod spider, as well as improving my Python skills. I have been coding a few bots for Telegram and creating a general-purpose data scraper on my downtime.
+- Currently, I am working on AWS CP Cert as well as improving my Python skills. I have been creating a general-purpose data scraper on my downtime.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
