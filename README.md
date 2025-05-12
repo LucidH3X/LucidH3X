@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucidH3X&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucidH3X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
