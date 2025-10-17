@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi I am Lucid.H3X a 37 year old Security Analyst | Threat Hunter | Malware Researcher | With a Passion for research and learning.
+Hi I am Lucid.H3X a 37 year old Aspiring Security Analyst | Threat Hunter | Malware Researcher | With a Passion for research and learning.
 
 I have always been fascinated by cybersecurity, the idea of threats, and the ability to identify and mitigate them. Who wouldn't want to be a futuristic detective when you were a kid? I dreamed of one day having the chance to work with people and do my part to secure assets and help protect people themselves from threats. As I got older, this fascination became a passion for information security and all its connected realms. My current focus in studies is threat intelligence and cloud security, alongside malware and learning the role AI will play in the future of cybersecurity. 
 
