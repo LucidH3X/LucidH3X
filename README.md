@@ -25,6 +25,3 @@ I challenge myself to stay a step ahead of threat actors while being an active c
   <img height="180em" src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif">
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LucidH3X/count.svg" alt="Visitor Count">
-</div>
