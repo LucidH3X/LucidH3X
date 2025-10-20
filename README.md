@@ -1,27 +1,155 @@
-
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi I am Lucid.H3X a 37 year old Furry Nerd
+Hey, I'm **Lucid.H3X** — a 38-year-old furry nerd on a mission to become a cybersecurity professional! 🦊🔐
 
-I have always been fascinated by cybersecurity, the idea of threats, and the ability to identify and mitigate them. Who wouldn't want to be a futuristic detective when you were a kid? I dreamed of one day having the chance to work with people and do my part to secure assets and help protect people themselves from threats. As I got older, this fascination became a passion for information security and all its connected realms. My current focus in studies is threat intelligence and cloud security, alongside malware and learning the role AI will play in the future of cybersecurity. 
+I've always been fascinated by cybersecurity — the threats, the detectives who hunt them, and the thrill of protecting people and assets. What started as childhood dreams has become a genuine passion for information security.
 
-I challenge myself to stay a step ahead of threat actors while being an active contributor to the organizations in our ever-changing technical landscape. I love cybersecurity, as much as learning and trying to stay relevant with the threats and techniques that may be emerging. For me, the opportunity to dive into and gain insight into the wide realm of information security keeps my childlike passion and dreams alive.
+**My current focus:** Threat intelligence, cloud security, malware analysis, and how AI will reshape cybersecurity's future. I'm committed to staying ahead of threat actors while contributing meaningfully to security-focused organizations.
 
-## Certifications earned <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+For me, it's simple: cybersecurity keeps my childhood wonder alive. Every emerging threat, every new technique, every chance to dive deeper into this wild realm? *Chef's kiss.* That's what gets me out of bed! or keeps me hiding under the sheets for 6 weeks scared to look at a phone screen.
+
+---
+
+## 🎯 My Journey
+
+**Goal:** Employed in cybersecurity by **April 2027** in the Bay Area  
+**Current Phase:** Building foundations → Steps phase (Oct 2025)  
+**Target Timeline:** Security+ exam ready by Nov 7, 2026 (40th birthday!)
+
+I'm on an 18-month sprint from Service writer / DoorDash driver → cybersecurity professional. Every commit, every challenge solved, every project built gets me closer. This is my third serious attempt, and this time? I'm going the distance. 
+
+---
+
+## 🏆 Certifications
+
 ![Google Cybersecurity Certification](https://img.shields.io/badge/Google%20Cybersecurity%20Certification-September%202024-purple?style=flat-square&logo=google&logoColor=white)
 
-## Languages I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+**In Progress:**
+- 🎓 CompTIA Security+ (Target: Nov 2026)
+- 🌩️ AWS Cloud Practitioner (Target: Apr 2027)
 
-## CTF Completion <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-![PicoCTF Progress](https://img.shields.io/badge/PicoCTF-0%25%20Complete-white) ![HackThisSite Progress](https://img.shields.io/badge/HackThisSite-0%25%20Complete-white) ![HackTheBox Progress](https://img.shields.io/badge/HackTheBox-0%25%20Complete-white)
+---
 
-## Side Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-- Currently, I am working on AWS CP Cert as well as improving my Python skills. I have been creating a general-purpose data scraper on my downtime.
+## 💻 Languages & Tools
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+- 📝 **Linux** — Arch Linux daily driver, comfortable in terminal
 
+**Languages I Know:**
+
+
+**Tools I'm Learning:**
+- 🔍 **tcpdump** — Packet analysis & network monitoring
+- 🎯 **Kali Linux** — Penetration testing & security research
+- 🦀 **Rust** — Next on my list! (Goals)
+- 🔧 **Go** — Network tools & projects (future)
+- 🐍 **Python** — Network tools, automation, scripting
+- 🐧 **Bash/Shell** — Linux commands, system automation
+
+**Learning Platforms:**
+- TryHackMe (active learner)
+- HackTheBox Academy
+- OverTheWire (Bandit wargame)
+- PicoCTF
+
+---
+
+## 🚩 CTF Challenges & Progress
+
+| Platform | Status | Goal |
+|----------|--------|------|
+| ![PicoCTF](https://img.shields.io/badge/PicoCTF-In%20Progress-brightgreen?style=flat-square) | Beginner challenges | Complete 50+ by Dec 2025 |
+| ![HackTheBox](https://img.shields.io/badge/HackTheBox-Starting%20Soon-yellow?style=flat-square) | Academy modules | 10+ boxes by Q1 2026 |
+| ![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-blue?style=flat-square) | Active daily | Build CTF writeup portfolio |
+| ![OverTheWire](https://img.shields.io/badge/OverTheWire%20Bandit-Levels%201--3-success?style=flat-square) | Linux fundamentals | Complete all Bandit levels |
+
+---
+
+## 🛠️ Side Projects
+
+### Network & Security
+- **Raspberry Pi Network Sensor** ✅ 
+  - Real-time packet capture & monitoring
+  - Static IP (10.0.0.17), SSH-accessible, fully operational
+  - [Details in cybersecurity-journey repo]
+
+- **Python Port Scanner** (In Progress)
+  - Fast, async port scanning tool
+  - Learning socket programming & network fundamentals
+
+### Hardware Hacking
+- **Flipper Zero Projects** — Physical security testing & exploration
+- **ESP32 Marauder** — WiFi/Bluetooth attack research
+- **RTL-SDR** — Radio frequency analysis & learning
+
+### Learning Infrastructure
+- **Kali Linux VM** — Primary attack box (6GB RAM, 4 CPUs)
+- **Ubuntu Target VM** — Vulnerable apps (DVWA, WebGoat)
+- **Windows 11 Defense VM** — Blue team practice
+- **Obsidian Vault** — Comprehensive knowledge base & daily logs
+
+---
+
+## 📊 GitHub Activity
+
+[![Lucid's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucidH3X&theme=dark&show_icons=true)](https://github.com/LucidH3X)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucidH3X&layout=compact&theme=dark)](https://github.com/LucidH3X)
+
+---
+
+## 📚 Main Repositories
+
+### [cybersecurity-journey](https://github.com/LucidH3X/cybersecurity-journey)
+Complete documentation of my 18-month transformation journey. Weekly progress, project writeups, CTF solutions, and learning notes. This is the real deal. 🔐
+
+### [c1phr-projects](https://github.com/LucidH3X/c1phr-projects)
+Security projects & portfolio showcase. Tools, research, and proof-of-concepts.
+
+### [rd3n-personal](https://github.com/LucidH3X/rd3n-personal)
+Technical blog & learning documentation. Articles, walkthroughs, and insights.
+
+---
+
+## 🎓 What I'm Learning Right Now
+
+**Oct 2025 (Steps Phase):**
+- ✅ Linux fundamentals (OverTheWire Bandit)
+- 📺 Security+ Domain 1 (CompTIA fundamentals)
+- 🛠️ Raspberry Pi networking & packet capture
+- 🎯 PicoCTF beginner challenges
+
+**Nov-Dec 2025 (Intensive Phase):**
+- Python network tools & automation
+- DVWA exploitation & web security
+- HackTheBox Academy modules
+- Security+ continued study
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
-  <img height="180em" src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif">
+  <a href="https://twitter.com/LucidH3X">
+    <img src="https://img.shields.io/badge/Twitter-@LucidH3X-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://github.com/LucidH3X">
+    <img src="https://img.shields.io/badge/GitHub-LucidH3X-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
 </p>
 
+---
+
+## 🎮 Fun Facts
+
+- 🦊 Proud furry! Fursona is everything to me
+- 🎮 Retro gaming enthusiast & hardware tinkerer
+- 🚗 Service writer | DoorDash driver funding my hacker dreams (for now 😸)
+- 📝 Obsessive documenter of learning journey
+- 🎵 EVE Online becuase I hate not looking at numbers
+- ☕ Powered by chaos, curiosity, and way too much coffee and snacks OMG! snacks!
+
+---
+
+**Status:** 🚀 On the journey. Not there yet. Getting there. 
+
+*Last Updated: October 2025*
