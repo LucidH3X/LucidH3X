@@ -61,7 +61,7 @@ I'm on an 18-month sprint from Service writer / DoorDash driver → cybersecurit
 | ![HackTheBox](https://img.shields.io/badge/HackTheBox-Starting%20Soon-yellow?style=flat-square) | Academy modules | 10+ boxes by Q1 2026 |
 | ![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-blue?style=flat-square) | Active daily | Build CTF writeup portfolio |
 | ![OverTheWire](https://img.shields.io/badge/OverTheWire%20Bandit-Level%203-success?style=flat-square) |Work weekly |Complete all Bandit levels
-  ![HackThisSite](https://img.shields.io/badge/HackThisSite%20Basic-Levels%201-success?style=flat-square) |Work on downtime|Complete all Basic levels
+  ![HackThisSite](https://img.shields.io/badge/HackThisSite%20Basic-Levels%202-success?style=flat-square) |Work on downtime|Complete all Basic levels
 
 ---
 
