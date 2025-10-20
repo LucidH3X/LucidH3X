@@ -60,7 +60,8 @@ I'm on an 18-month sprint from Service writer / DoorDash driver → cybersecurit
 | ![PicoCTF](https://img.shields.io/badge/PicoCTF-In%20Progress-brightgreen?style=flat-square) | Beginner challenges | Complete 50+ by Dec 2025 |
 | ![HackTheBox](https://img.shields.io/badge/HackTheBox-Starting%20Soon-yellow?style=flat-square) | Academy modules | 10+ boxes by Q1 2026 |
 | ![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-blue?style=flat-square) | Active daily | Build CTF writeup portfolio |
-| ![OverTheWire](https://img.shields.io/badge/OverTheWire%20Bandit-Levels%201--3-success?style=flat-square) | Linux fundamentals | Complete all Bandit levels |
+| ![OverTheWire](https://img.shields.io/badge/OverTheWire%20Bandit-Level%203-success?style=flat-square) |Work weekly |Complete all Bandit levels
+  ![HackThisSite](https://img.shields.io/badge/HackThisSite%20Basic-Levels%201-success?style=flat-square) |Work on downtime|Complete all Basic levels
 
 ---
 
@@ -117,6 +118,7 @@ Technical blog & learning documentation. Articles, walkthroughs, and insights.
 - 📺 Security+ Domain 1 (CompTIA fundamentals)
 - 🛠️ Raspberry Pi networking & packet capture
 - 🎯 PicoCTF beginner challenges
+- 💻 hackthissite.org basic challenges
 
 **Nov-Dec 2025 (Intensive Phase):**
 - Python network tools & automation
