@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hey, I'm **Lucid.H3X** — a 38-year-old furry nerd on a mission to become a cybersecurity professional! 🦊🔐
+Hey, I'm **Lucid.H3X** — a 39-year-old furry nerd on a mission to become a cybersecurity professional! 🦊🔐
 
 I've always been fascinated by cybersecurity — the threats, the detectives who hunt them, and the thrill of protecting people and assets. What started as childhood dreams has become a genuine passion for information security.
 
@@ -16,7 +16,7 @@ For me, it's simple: cybersecurity keeps my childhood wonder alive. Every emergi
 **Current Phase:** Building foundations → Steps phase (Oct 2025)  
 **Target Timeline:** Security+ exam ready by Nov 7, 2026 (40th birthday!)
 
-I'm on an 18-month sprint from Service writer / DoorDash driver → cybersecurity professional. Every commit, every challenge solved, every project built gets me closer. This is my third serious attempt, and this time? I'm going the distance. 
+Every commit, every challenge solved, every project built gets me closer. 
 
 ---
 
@@ -25,8 +25,8 @@ I'm on an 18-month sprint from Service writer / DoorDash driver → cybersecurit
 ![Google Cybersecurity Certification](https://img.shields.io/badge/Google%20Cybersecurity%20Certification-September%202024-purple?style=flat-square&logo=google&logoColor=white)
 
 **In Progress:**
-- 🎓 CompTIA Security+ (Target: Nov 2026)
-- 🌩️ AWS Cloud Practitioner (Target: Apr 2027)
+- 🎓 CompTIA Security+ 
+- 🌩️ AWS Cloud Practitioner (
 
 ---
 
@@ -50,6 +50,7 @@ I'm on an 18-month sprint from Service writer / DoorDash driver → cybersecurit
 - HackTheBox Academy
 - OverTheWire (Bandit wargame)
 - PicoCTF
+- HackThisSite
 
 ---
 
@@ -70,7 +71,7 @@ I'm on an 18-month sprint from Service writer / DoorDash driver → cybersecurit
 ### Network & Security
 - **Raspberry Pi Network Sensor** ✅ 
   - Real-time packet capture & monitoring
-  - Static IP (10.0.0.17), SSH-accessible, fully operational
+  - Static IP, SSH-accessible, fully operational
   - [Details in cybersecurity-journey repo]
 
 - **Python Port Scanner** (In Progress)
@@ -112,13 +113,6 @@ Technical blog & learning documentation. Articles, walkthroughs, and insights.
 ---
 
 ## 🎓 What I'm Learning Right Now
-
-**Oct 2025 (Steps Phase):**
-- ✅ Linux fundamentals (OverTheWire Bandit)
-- 📺 Security+ Domain 1 (CompTIA fundamentals)
-- 🛠️ Raspberry Pi networking & packet capture
-- 🎯 PicoCTF beginner challenges
-- 💻 hackthissite.org basic challenges
 
 **Nov-Dec 2025 (Intensive Phase):**
 - Python network tools & automation
