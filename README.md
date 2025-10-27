@@ -61,8 +61,8 @@ Every commit, every challenge solved, every project built gets me closer.
 | ![PicoCTF](https://img.shields.io/badge/PicoCTF-In%20Progress-brightgreen?style=flat-square) | Beginner challenges | Complete 50+ by Dec 2025 |
 | ![HackTheBox](https://img.shields.io/badge/HackTheBox-Starting%20Soon-yellow?style=flat-square) | Academy modules | 10+ boxes by Q1 2026 |
 | ![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-blue?style=flat-square) | Active daily | Build CTF writeup portfolio |
-| ![OverTheWire](https://img.shields.io/badge/OverTheWire%20Bandit-Level%203-success?style=flat-square) |Work weekly |Complete all Bandit levels
-  ![HackThisSite](https://img.shields.io/badge/HackThisSite%20Basic-Levels%202-success?style=flat-square) |Work on downtime|Complete all Basic levels
+| ![OverTheWire](https://img.shields.io/badge/OverTheWire%20Bandit-Level%2013-success?style=flat-square) |Work weekly |Complete all Bandit levels
+  ![HackThisSite](https://img.shields.io/badge/HackThisSite%20Basic-Levels%205-success?style=flat-square) |Work on downtime|Complete all Basic levels
 
 ---
 
