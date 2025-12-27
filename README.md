@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hey, I'm **Lucid.H3X** — a 39-year-old furry nerd on a mission to become a cybersecurity professional!
+Hey, I'm **Lucid.H3X** — a 39-year-old furry nerd!
 I've always been fascinated by cybersecurity — the threats, the detectives who hunt them, and the thrill of protecting people and assets. What started as childhood dreams has become a genuine passion for information security.
 
 **My current focus:** Threat intelligence, cloud security, malware analysis, and how AI will reshape cybersecurity's future. I'm committed to staying ahead of threat actors while contributing meaningfully to security-focused organizations.
