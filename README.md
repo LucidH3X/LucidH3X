@@ -1,6 +1,8 @@
 ![Status](https://img.shields.io/badge/Status-Hunting_Threats-critical?style=flat-square&logo=ghost)
 ![Community](https://img.shields.io/badge/Defcon-Furs-orange?style=flat-square&logo=paw)
 ![Vibe](https://img.shields.io/badge/Vibe-uwu-ff69b4?style=flat-square)
+--
+![aa](https://github.com/LucidH3X/LucidH3X/blob/main/lucidspace.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -19,15 +21,6 @@ For me, it's simple: cybersecurity keeps my childhood wonder alive. Every emergi
 - [ ] **Pi Cluster** (Assembling 4-node brain) 
 - [ ] **Malware Lab** (Setting up the sandbox) 
 - [ ] **Set up honeypot** (Using a Pi Zero 2 w)
-
----
-
-## 📊 GitHub Activity
-
-[![Lucid's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucidH3X&theme=dark&show_icons=true)](https://github.com/LucidH3X)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucidH3X&layout=compact&theme=dark)](https://github.com/LucidH3X)
-
 
 ---
 
