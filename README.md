@@ -18,6 +18,7 @@ Hey, I'm Lucid.H3X — a 39-year-old furry nerd! I've always been fascinated by 
 - [ ] **Pi Cluster** (Assembling 4-node brain) 
 - [ ] **Malware Lab** (Setting up the sandbox) 
 - [ ] **Set up honeypot** (Using a Pi Zero 2 w)
+- [X] Hosting r3dn.net my new website / blog
 
 ---
 
