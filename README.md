@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hey, I'm Lucid.H3X — a 39-year-old furry nerd! I've always been fascinated by cybersecurity — the threats, the detectives who hunt them, and the thrill of protecting people and assets. What started as childhood dreams has become a genuine passion for information security.
+Hey, I'm Lucid.H3X — a 39-year-old furry nerd! I've always been fascinated by cybersecurity — the threats, the people who hunt them, and the thrill of protecting people and assets. What started as childhood dreams has become a genuine passion for information security.
 
 **My current focus:** Threat intelligence, cloud security, malware analysis, and how AI will reshape cybersecurity's future. I'm committed to staying ahead of threat actors while contributing meaningfully to security-focused organizations.
 
@@ -16,10 +16,11 @@ Hey, I'm Lucid.H3X — a 39-year-old furry nerd! I've always been fascinated by 
 ---
 ### 🚀 Current Mission
 - [ ] **Pi Cluster** (Assembling 4-node brain) 
-- [X] Hosting r3dn.net my new website / blog
+- [ ] Hosting r3dn.net my new website / blog
+- [ ] Setting up my Home Lab again
 
 ---
 
 **Status:** 🚀 On the journey. Not there yet. Getting there. 
 
-*Last Updated: March 2026*
+*Last Updated: April 2026*
