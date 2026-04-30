@@ -10,9 +10,9 @@ Hey, I'm Lucid.H3X — a 39-year-old furry nerd! I've always been fascinated by 
 
 **My current focus:** Threat intelligence, cloud security, malware analysis, and how AI will reshape cybersecurity's future. I'm committed to staying ahead of threat actors while contributing meaningfully to security-focused organizations.
 
-* 🛡️ **Defending:** Cloud environments and home labs.
+* 🛡️ **Defending:** Home labs.
 * 🔍 **Hunting:** Curious about APTs , weird malware behavior and AI
-* 🛠️ **Building:** Flipper Zero mods, Pi-based honeypots. RF research and breaking things on the internet.
+* 🛠️ **Building:** Hardware, Pi-based devices. RF research and breaking things on the internet.
 ---
 ### 🚀 Current Mission
 - [ ] **Pi Cluster** (Assembling 4-node brain) 
